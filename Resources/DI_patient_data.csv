@@ -1,0 +1,2 @@
+id,type,name,gender,age,camera_temperature,thermal_image,complain1,travel,contact,temperature,pulse,breath,blood_pressure,complain2,inspection,inspection_image,result
+1,mers,김남수,male,40,38.5,thermal_image.jpg,발열/기침,오만에서 7일 전 귀국,특이사항 없음,38.5,76,22,138/80,호흡곤란,흉부 X-ray,xray.png,BLL infiltration 확인
